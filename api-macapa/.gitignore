@@ -1,0 +1,11 @@
+node_modules
+contacts-macapa.json
+contacts-varejao.json
+.env
+yarn-error.log
+yarn.lock
+create-table-macapa.sql
+create-table-varejao.sql
+docker-compose.yml
+desafio-merca
+desafio-merca.pub
