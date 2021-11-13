@@ -21,6 +21,9 @@ $ git clone https://github.com/byoliveira/desafio-merca.git
 $ cd desafio-merca
 $ cd api-macapa
 
+# Instale DB com Docker
+$ docker-compose up -d
+
 # Instale as dependências
 $ docker-compose up -d "somente uma vez, já é o suficiente para subir as imagens db necessárias"
 $ yarn ou yarn install
